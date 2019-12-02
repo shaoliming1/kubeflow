@@ -1,2 +1,2 @@
 
-from  gcr.io/kubeflow-images-public/kubernetes-sigs/application
+from  gcr.io/kubeflow-images-public/kubernetes-sigs/application:v0.8.1
